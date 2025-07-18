@@ -1,0 +1,13 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# other
+.old
+.wrangler
+dist/
+resources/.local/
+package-lock.json
